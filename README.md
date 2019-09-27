@@ -1,9 +1,7 @@
 # IDA_Pro_7.2
 
 
-## password
-
-`7JpT48a7Y2fv`
+## password    7JpT48a7Y2fv
 
 ![](./ida7.2.jpg)
 
