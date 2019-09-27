@@ -1,7 +1,10 @@
 # IDA_Pro_7.2
 
 
-`只有安装包，没有key!`
+## password
+
+`7JpT48a7Y2fv`
+
 
 ![](./0-0.jpg)
 ![](0.jpg)
